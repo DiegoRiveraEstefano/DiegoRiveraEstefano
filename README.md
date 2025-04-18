@@ -12,6 +12,7 @@
 ### Programming Languages
 - **Python**: 4 years of experience
 - **JavaScript**: 2 years of experience
+- **Java**: 2 years of experience
 
 ### Frameworks & Libraries
 - **Django**: 3 years of experience
@@ -29,21 +30,21 @@
 ## Portafolio
 - **Personal Portafolio**: [Portafolio](link) - a few projects and my life.
 
-### Django Projects
+### Personal Projects
 - **Psu Trainer**: [Psu Trainer](https://github.com/DiegoRiveraEstefano/Psu-Trainer) - a system to train for tests like psu o similar. 
 - **Home Erp**: [[Home Erp](link)](https://github.com/DiegoRiveraEstefano/Home-ERP) - A brief description of the project.
-
-### Python Projects
+- **Minecraft Admin Tools**: [[minecraft-server-admin-tools](link)](https://github.com/DiegoRiveraEstefano/minecraft-server-admin-tools) - A brief description of the project.
 - **Project 1**: [[minecraft-server-admin-tools](link)](https://github.com/DiegoRiveraEstefano/minecraft-server-admin-tools) - A brief description of the project.
-- **Project 2**: [Project Name](link) - A brief description of the project.
+
 
 ## 🌱 Currently Learning
 - **Angular**: Expanding my knowledge in frontend development.
-- **Vue.js**: Exploring this progressive JavaScript framework.
+- **FastApi**: Exploring this progressive Python framework.
+- **Tauri**: Interest in multiplatform toolkits.
 
 ## 📫 How to Reach Me
 - **Email**: [diego.rivera.estefano@gmail.com](mailto:diego.rivera.estefano@gmail.com)
-- **LinkedIn**: [Diego Rivera](https://www.linkedin.com/in/diego-rivera)
+- **LinkedIn**: [Diego Rivera](www.linkedin.com/in/diego-rivera-6b45b7294)
 - **GitHub**: [DiegoRivera](https://github.com/DiegoRiveraEstefano)
 
 ## 🚀 Goals
