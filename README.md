@@ -1,67 +1,62 @@
-# Diego Rivera
+# **Diego Rivera Estefano**
 
-## About Me
-
-👋 Hi there! I'm **Diego Rivera**, a passionate software engineering student at **INACAP** with a strong focus on backend development and a growing interest in frontend technologies.
-
-## 🎓 Education
-- **Software Engineering Student** at INACAP (Currently pursuing my degree)
-
-## 💻 Skills & Expertise
-
-### Programming Languages
-- **Python**: 4 years of experience
-- **JavaScript**: 2 years of experience
-- **Java**: 2 years of experience
-
-### Frameworks & Libraries
-- **Django**: 3 years of experience
-- **Django REST Framework**: Proficient in building RESTful APIs
-- **Angular**: Currently learning
-- **Vue.js**: 1 years of experience
-
-### Tools & Standards
-- **Python PEP Standards**: Strong understanding and adherence
-- **Ruff**: Experience with linting and code formatting
-- **Git**: Version control and collaboration
-
-## 🛠️ Projects
-
-## Portafolio
-- **Personal Portafolio**: [Portafolio](link) - a few projects and my life.
-
-### Personal Projects
-- **Psu Trainer**: [Psu Trainer](https://github.com/DiegoRiveraEstefano/Psu-Trainer) - a system to train for tests like psu o similar. 
-- **Home Erp**: [[Home Erp](link)](https://github.com/DiegoRiveraEstefano/Home-ERP) - A brief description of the project.
-- **Minecraft Admin Tools**: [[minecraft-server-admin-tools](link)](https://github.com/DiegoRiveraEstefano/minecraft-server-admin-tools) - A brief description of the project.
-- **Project 1**: [[minecraft-server-admin-tools](link)](https://github.com/DiegoRiveraEstefano/minecraft-server-admin-tools) - A brief description of the project.
-
-
-## 🌱 Currently Learning
-- **Angular**: Expanding my knowledge in frontend development.
-- **FastApi**: Exploring this progressive Python framework.
-- **Tauri**: Interest in multiplatform toolkits.
-
-## 📫 How to Reach Me
-- **Email**: [diego.rivera.estefano@gmail.com](mailto:diego.rivera.estefano@gmail.com)
-- **LinkedIn**: [Diego Rivera](www.linkedin.com/in/diego-rivera-6b45b7294)
-- **GitHub**: [DiegoRivera](https://github.com/DiegoRiveraEstefano)
-
-## 🚀 Goals
-- To become a full-stack developer with expertise in both backend and frontend technologies.
-- Contribute to open-source projects and collaborate with other developers.
-
-## 📊 GitHub Stats
-
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoRiveraEstefano&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRiveraEstefano&layout=compact&theme=radical)
+**Ingeniero de Software | Full Stack Developer – Especialista en Python**
+ Santiago, Chile | [diego.rivera.estefano@gmail.com](mailto:diego.rivera.estefano@gmail.com)
+linkedin.com/in/diego-rivera-estefano | github.com/DiegoRiveraEstefano
 
 ---
 
-⭐️ From [Diego Rivera](https://github.com/DiegoRiveraEstefano)
+### **Perfil Profesional**
 
-<!---
-DiegoRiveraEstefano/DiegoRiveraEstefano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ingeniero de Software recién egresado, con más de 1.5 años de experiencia como desarrollador Full Stack freelance. Especializado en el ecosistema **Python** (Django, FastAPI y desarrollo de scripts) y en la integración de soluciones de **IA/ML** orientadas a PyMEs. Experiencia en automatización, optimización de *backends*, despliegue con **Docker/CI/CD** y trabajo con sistemas embebidos. Me interesa construir soluciones escalables, de alto rendimiento y alineadas a objetivos de negocio.
+
+---
+
+### **Experiencia Laboral**
+
+**Desarrollador Full Stack Freelance**
+*Clientes PyMEs – Chile* | *Jul 2024 – Presente*
+
+Trabajo en el diseño y desarrollo de soluciones tecnológicas para procesos de digitalización y automatización empresarial.
+
+* **Desarrollo Web & APIs:** Implementación de APIs REST utilizando **Django**, **Django REST Framework** y **FastAPI**, con integración a frontends en **Vue.js** y **SvelteKit**.
+* **Automatización & IA:** Desarrollo de modelos de Machine Learning (Scikit-learn) para clasificación automática de tickets y reducción de carga operativa.
+* **Infraestructura:** Despliegue de servicios *self-hosted*, configuraciones con **Docker**, **Nginx** y administración de bases de datos **PostgreSQL** con RLS.
+* **Optimización interna:** Creación de scripts en Python para automatizar flujos de trabajo, análisis de datos y generación de reportes.
+
+---
+
+### **Habilidades Técnicas**
+
+* **Lenguajes:** Python (avanzado), JavaScript/TypeScript, SQL, C/C++ (embebidos), Go (básico), Bash.
+* **Backend & Data:** Django, DRF, FastAPI, PostgREST, Kafka, Pandas, Scikit-learn.
+* **Frontend:** Vue.js, SvelteKit, HTML5, CSS3, Tauri.
+* **DevOps & Herramientas:** Docker, GitHub Actions, Linux (Systemd, administración), Git, Nuitka.
+* **Hardware/IoT:** Raspberry Pi (4 y Pico), ESP32, I2C, UART, USB HID.
+
+---
+
+### **Proyectos Destacados**
+
+**Sistema de Control HID & Coprocesamiento IoT** | *Dic 2025*
+
+* Desarrollo de un sistema de control de dispositivos móviles basado en Raspberry Pi 4 + Pico en arquitectura maestro–esclavo.
+* Implementación de comunicación UART/I2C y emulación de dispositivos USB HID.
+* Pipelines CI/CD con GitHub Actions para compilación cruzada optimizada hacia ARM64.
+
+**Clasificador de Tickets con ML** | *Oct 2025*
+
+* Microservicio para preprocesamiento y clasificación automática de tickets.
+* Entrenamiento de modelos con Scikit-learn y exposición del servicio vía API para consumo en tiempo real.
+
+**Arquitectura de Servicios con Kafka y Go** | *Oct 2025*
+
+* Diseño de un backend para ingesta y procesamiento de datos IoT.
+* Uso de **Kafka** para mensajería y un consumidor en **Go** para procesamiento concurrente de alto rendimiento.
+
+---
+
+### ** Educación**
+
+**Ingeniería en Informática / Software**
+*Centro De formacion Inacap* | *Egreso: Dic 2025*
